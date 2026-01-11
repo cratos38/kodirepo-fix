@@ -1,4 +1,4 @@
-﻿<?xml version="1.2.3" encoding="UTF-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.cache-sk" name="Kodi cache-sk Addons" version="1.0.6" provider-name="cache-sk">
     <extension point="xbmc.addon.repository" name="Kodi cache-sk Addons">
         <dir>
